@@ -75,7 +75,7 @@ const Manager = () => {
                                 <th className='py-2'>Site</th>
                                 <th className='py-2'>Username</th>
                                 <th className='py-2'>Passwords</th>
-                            </tr>
+                            </tr> 
                         </thead>
                         <tbody className='bg-blue-200'>
                             {passwordArray.map((item, index) => {
